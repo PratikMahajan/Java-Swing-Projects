@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+<<<<<<< HEAD
+=======
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Interface/Retailer/MainRetailerPanel.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Retailer/ProductCatalogue.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Admin.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Interface/Customer/CheckoutPanel.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Product.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Interface/Customer/MainCustomerPanel.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Retailer/RetailerInvoice.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Interface/Admin/InvoicePanel.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Interface/Customer/ViewBooked.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Customer/CartCatalogue.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Retailer/Retailer.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Retailer/RetailerCatalogue.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Customer/CartProduct.java</file>
+            <file>file:/Users/karanracca/Documents/AED-Spring18/Assign-5/assignment-5-aed/Assignment05/src/Business/Retailer/RetailerInvoiceList.java</file>
+        </group>
+    </open-files>
+>>>>>>> 607040e3c56904d028e65fd8d2521220dc1434b7
+</project-private>
